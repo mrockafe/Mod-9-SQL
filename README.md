@@ -1,5 +1,5 @@
-## Mod-9-SQL
-# Module 9 Working with SQL
+# Mod-9-SQL
+## Module 9 Working with SQL
 
 In this repository we house the files to create a sql database from csv's.
 We focus on using pgadmin and quickDBD to complete this projects. 
@@ -15,7 +15,7 @@ Secondly we move into part 3, data analysis
 In this space we use merges "joins" to merge select tables to compare the data between the two or more tables
 This practice is very useful in showing all related data in one space for employees or departments
 
-# How to use Repository
+## How to use Repository
 1: To begin please make a clome of this repository to your local drive
 2: You may use the (Data Modeling.png) file to get a quick overview of the data tables and relationships
 3: Open PGAdmin and create a new Database
